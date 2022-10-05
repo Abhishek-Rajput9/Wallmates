@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741155098380",
+    "project_id": "wallmates-8532b",
+    "storage_bucket": "wallmates-8532b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741155098380:android:9e96896262bb3a4f3f8329",
+        "android_client_info": {
+          "package_name": "com.example.wallmates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741155098380-vcqkngstl8fiudvkd06bl36j2mrq8gg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWPcDut7SITXY-gkGPrG9nnVQ_WhQ04w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741155098380-vcqkngstl8fiudvkd06bl36j2mrq8gg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
